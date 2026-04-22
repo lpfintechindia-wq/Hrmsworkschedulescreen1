@@ -95,14 +95,14 @@ export default function App() {
             <div className="flex items-center gap-2 mb-4 text-sm text-gray-600">
               <button className="hover:text-gray-900 transition-colors">Settings</button>
               <ChevronLeft className="w-4 h-4 rotate-180" />
-              <span className="text-gray-900">Work Schedule & Holiday Policy</span>
+              <span className="text-gray-900">Work Week Policies</span>
             </div>
 
             {/* Page Title & Actions */}
             <div className="flex items-center justify-between mb-6">
               <div>
                 <h2 className="text-2xl font-semibold text-gray-900">
-                  Work Schedule & Holiday Policy
+                  Work Week Policies
                 </h2>
                 <p className="text-sm text-gray-600 mt-1">
                   Configure rule-based weekly off patterns and holiday calendars
